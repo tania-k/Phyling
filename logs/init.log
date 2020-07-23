@@ -1,0 +1,3 @@
+make expected_prefixes.lst
+Making prefix.tab
+Make pepfile.lst for hmmsearch runs

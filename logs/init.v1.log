@@ -1,0 +1,4 @@
+Bad HMM_DIR "HMM/JGI_1086"
+need a HMM defined in config.txt and this needs to be a folder in HMM/
+usually you checkout / download https://github.com/1KFG/Phylogenomics_HMMs/releases/latest and then 
+symlink/move Phylogenomics_HMMs/HMM ./HMM

@@ -1,0 +1,3 @@
+g= NM= OUT=
+/var/spool/slurmd/job1860312/slurm_script: line 69:  4997 Aborted                 hmmsearch --cpu "$CPU" -E "$HMMSEARCH_CUTOFF" --domtblout "$OUTFILE1" "$MARKERS" "$INFILE" &>"$OUTFILE2"
+/var/spool/slurmd/job1860312/slurm_script: line 81: PHYling_unified/util/get_best_by_cutoffs_hmmtbl.py: No such file or directory

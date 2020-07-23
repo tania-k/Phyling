@@ -1,0 +1,6 @@
+g= NM= OUT=
+/var/spool/slurmd/job1860583/slurm_script: line 69:  7335 Aborted                 hmmsearch --cpu "$CPU" -E "$HMMSEARCH_CUTOFF" --domtblout "$OUTFILE1" "$MARKERS" "$INFILE" &>"$OUTFILE2"
+Traceback (most recent call last):
+  File "PHYling_unified/util/get_best_by_cutoffs_hmmtbl.py", line 17, in <module>
+    with open(args.lengths,"r") as fh:
+IOError: [Errno 2] No such file or directory: 'HMM/JGI_1086/lengths_cutoff'

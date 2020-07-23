@@ -1,0 +1,4 @@
+g= NM=
+/var/spool/slurmd/job1828794/slurm_script: line 69: 93875 Aborted                 hmmsearch --cpu "$CPU" -E "$HMMSEARCH_CUTOFF" --domtblout "$OUTFILE1" "$MARKERS" "$INFILE" &>"$OUTFILE2"
+/var/spool/slurmd/job1828794/slurm_script: line 74: search/JGI_1086/.: Is a directory
+/var/spool/slurmd/job1828794/slurm_script: line 81: search/JGI_1086/.: Is a directory
